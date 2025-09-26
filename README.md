@@ -1,4 +1,4 @@
 # example
-#sample
-#emulator
-#short
+# sample
+# emulator
+# short
